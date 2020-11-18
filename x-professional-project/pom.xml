@@ -6,9 +6,10 @@
     <parent>
         <artifactId>x-professional</artifactId>
         <groupId>com.x.professional</groupId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0.0</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
+    <name>x-professional-project</name>
     <packaging>pom</packaging>
 
     <artifactId>x-professional-project</artifactId>
